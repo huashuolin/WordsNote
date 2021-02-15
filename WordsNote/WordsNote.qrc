@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/text_bold_black.svg</file>
+        <file>images/text_italic_black.svg</file>
+        <file>images/text_underline_black.svg</file>
+        <file>images/text_color_black.svg</file>
+        <file>images/text_background_color_black.svg</file>
+        <file>images/text_align_center_black.svg</file>
+        <file>images/text_align_justify_black.svg</file>
+        <file>images/text_align_left_black.svg</file>
+        <file>images/text_align_right_black.svg</file>
+        <file>images/text_backward_black.svg</file>
+        <file>images/text_forward_black.svg</file>
+        <file>images/text_save_black.svg</file>
+        <file>images/login/login_black.svg</file>
+        <file>images/login/arrow_down.png</file>
+        <file>images/login/default_iamge.png</file>
+        <file>images/login/arrow_up.png</file>
+        <file>images/DiaryIcon.svg</file>
+        <file>images/DocumentIcon.svg</file>
+        <file>images/DiaryIcon_64.svg</file>
+        <file>images/picture_black.svg</file>
+        <file>images/login/close_hover.svg</file>
+        <file>images/login/close_normal.svg</file>
+        <file>images/login/minimize_hover.svg</file>
+        <file>images/login/minimize_normal.svg</file>
+    </qresource>
+</RCC>
+
